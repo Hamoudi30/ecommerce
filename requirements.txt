@@ -1,0 +1,7 @@
+asgiref==3.7.2
+Django==4.2.4
+jsonpatch==1.32
+jsonpointer==2.0
+jsonschema==4.10.3
+Pillow==10.0.0
+PyJWT==2.7.0
